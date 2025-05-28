@@ -1,8 +1,11 @@
 # Emporium Platform
 
-- Refer to [**Lab1.pdf**](../documents/Lab1.pdf) and [**Lab2.pdf**](../documents/Lab2.pdf) for project requirements.
-- Refer to [**projectReport.pdf**](../documents/EmporiumPlatformReport.pdf) for a summary of architecture and implementation.
+- Refer to [**Lab1.pdf**](https://github.com/Emporium-Platform/.github/blob/main/documents/Lab1.pdf)
+  and [**Lab2.pdf**](https://github.com/Emporium-Platform/.github/blob/main/documents/Lab2.pdf)
+- Refer to [**projectReport.pdf**](https://github.com/Emporium-Platform/.github/blob/main/documents/EmporiumPlatformReport.pdf)
 - Each service includes its own README with usage and deployment instructions.
+
+
 
 ---
 
@@ -31,7 +34,8 @@ Each service is containerized and can run independently or via Docker Compose.
 
 The platform follows a microservices architecture with independent services that communicate over HTTP using REST. Advanced features include load balancing, replication, and caching to improve fault tolerance and performance.
 
-![System Design](../assets/systemdesign.png)
+
+![System Design](https://github.com/Emporium-Platform/.github/blob/main/assets/systemdesign.png?raw=true)
 
 ### Components
 
