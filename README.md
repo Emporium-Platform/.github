@@ -35,7 +35,6 @@ Each service is containerized and can run independently or via Docker Compose.
 The platform follows a microservices architecture with independent services that communicate over HTTP using REST. Advanced features include load balancing, replication, and caching to improve fault tolerance and performance.
 
 
-![System Design](https://github.com/Emporium-Platform/.github/blob/main/assets/systemdesign.png?raw=true)
 
 ### Components
 
